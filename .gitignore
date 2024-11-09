@@ -1,0 +1,4 @@
+venv
+modelo_rnn.pth
+.pkl
+*.xlsx
